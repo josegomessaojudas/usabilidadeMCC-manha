@@ -1,0 +1,10 @@
+div {
+  display: flex;
+}
+
+mat-card {
+  width: 500px;
+  margin-top: 5%;
+  margin-left: 25%;
+  border-style: double;
+}
